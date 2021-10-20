@@ -1,0 +1,25 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "node.js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p-ej/nodejsStudy.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "pej",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p-ej/nodejsStudy/issues"
+  },
+  "homepage": "https://github.com/p-ej/nodejsStudy#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
